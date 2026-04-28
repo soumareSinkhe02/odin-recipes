@@ -1,5 +1,13 @@
 # odin-recipes
-This is a project to learn the basics of HTML
-Specifically: creating links and images.
 
-I have acquired some initial skills, namely creating a link to navigate from my homepage (index.html) to my second page, which is the the fish and rice recipe. I have also created a backlink in fishrice.html to my homepage.
+## Description
+This project is a key step in the foundations of **The Odin Project** curriculum. The goal is to build a basic recipe website to practice fundamental HTML tags before moving on to CSS.
+
+## HTML Skills Implemented 
+-Using headings (`h1` to `h2`) for content hierarchy.
+-Creating ordered lists (`ol`) for steps and unordered (`ul`) for ingredients.
+-Inserting images with `alt` attributes for accessibility.
+-Implementing internal navigation between the index and recipe pages.
+
+## Include Recipes
+-[Fish Rice] (./recipes/fishrice.html)
