@@ -12,3 +12,4 @@ This project is a key step in the foundations of **The Odin Project** curriculum
 ## Include Recipes
 -[Fish Rice] (./recipes/fishrice.html)
 -[MAFE] (./recipes/mafe.html)
+-[Attieke] (./recipes/attieke.html)
